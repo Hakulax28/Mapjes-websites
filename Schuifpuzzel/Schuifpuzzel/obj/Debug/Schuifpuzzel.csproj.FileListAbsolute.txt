@@ -1,0 +1,10 @@
+C:\Users\cholo\Documents\School\Per3\Project\Schuifpuzzel\Schuifpuzzel\bin\Debug\Schuifpuzzel.exe.config
+C:\Users\cholo\Documents\School\Per3\Project\Schuifpuzzel\Schuifpuzzel\bin\Debug\Schuifpuzzel.exe
+C:\Users\cholo\Documents\School\Per3\Project\Schuifpuzzel\Schuifpuzzel\bin\Debug\Schuifpuzzel.pdb
+C:\Users\cholo\Documents\School\Per3\Project\Schuifpuzzel\Schuifpuzzel\obj\Debug\Schuifpuzzel.csprojAssemblyReference.cache
+C:\Users\cholo\Documents\School\Per3\Project\Schuifpuzzel\Schuifpuzzel\obj\Debug\Schuifpuzzel.Form1.resources
+C:\Users\cholo\Documents\School\Per3\Project\Schuifpuzzel\Schuifpuzzel\obj\Debug\Schuifpuzzel.Properties.Resources.resources
+C:\Users\cholo\Documents\School\Per3\Project\Schuifpuzzel\Schuifpuzzel\obj\Debug\Schuifpuzzel.csproj.GenerateResource.cache
+C:\Users\cholo\Documents\School\Per3\Project\Schuifpuzzel\Schuifpuzzel\obj\Debug\Schuifpuzzel.csproj.CoreCompileInputs.cache
+C:\Users\cholo\Documents\School\Per3\Project\Schuifpuzzel\Schuifpuzzel\obj\Debug\Schuifpuzzel.exe
+C:\Users\cholo\Documents\School\Per3\Project\Schuifpuzzel\Schuifpuzzel\obj\Debug\Schuifpuzzel.pdb
